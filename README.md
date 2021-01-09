@@ -1,2 +1,2 @@
 # git-playground
-5장 실습
+깃 재미있다
